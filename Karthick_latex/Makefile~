@@ -1,4 +1,4 @@
-TARGET=Karthick.pdf
+TARGET=cv-sreejith-k.en.pdf
 
 all: $(TARGET)
 
